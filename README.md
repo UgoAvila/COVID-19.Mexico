@@ -1,7 +1,7 @@
 # COVID-19.Mexico
 Epidemiological Mathematical Models of COVID-19 applied in Mexico
 This repository contains the code and input files for the analysis of a mathematical model applied to the outbreak of COVID-19 in Mexico. 
-The data was obtained by the daily updates by the National Secretary of Health of Mexico https://coronavirus.gob.mx/datos/#DOView. 
+The data was obtained by the daily updates by the National Secretary of Health of Mexico https://coronavirus.gob.mx/datos/#DOView. But the data was extracted from https://github.com/CSSEGISandData/COVID-19. 
 
 We uploeded 4 files of MathLab where we performed our analysis. The files are the following: 
 SEIAR_Covid_Odes_Mainland: In this file we expressed the set of differential equations used to model the spreak of the coranovirus in the country Mexico. 
